@@ -1,0 +1,6 @@
+# Data-Structures-of-Python
+...
+Data structures are basically just that - they are structures which can hold some data together. In other words, they are used to store a collection of related data.+
+
+There are four built-in data structures in Python - list, tuple, dictionary and set. We will see how to use each of them and how they make life easier for us.
+...
